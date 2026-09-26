@@ -85,4 +85,3 @@ https://github.com/PaulLachi12/cuentero
 ```
 
 Si tu usuario cambia o el repositorio no es público, comparte la URL exacta del remoto con tu evaluador.
-
